@@ -1,7 +1,7 @@
 # Data Science Projects Portfolio
 
 
-## 📂 Projects
+## Projects
 
 Each project folder/notebook focuses on a specific problem or dataset and includes:
 
@@ -11,7 +11,7 @@ Each project folder/notebook focuses on a specific problem or dataset and includ
 - Modeling and evaluation (where applicable)  
 - Clear visualizations to communicate insights  
 
-## 🚀 Skills & Tools
+## Skills & Tools
 
 - Programming: Python (pandas, NumPy, matplotlib, seaborn, scikit-learn)  
 - Data Visualization: matplotlib, seaborn, plotly  
